@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 struct Bank_Account {
-    char name[100];
+    char name[200];
     int account_no;
     float balance;
 };
