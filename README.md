@@ -1,2 +1,1 @@
-This project involves a Bank Management System developed using structures and functions in C.
-Here an user can create an account, deposit, withdraw or check his bank balance.  
+The Bank Management System is implemented using C programming language, utilizing structures for efficient data organization and functions for modular code design. The system provides a user-friendly interface for seamless interaction.
